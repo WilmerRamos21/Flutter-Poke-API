@@ -47,7 +47,7 @@ Implementación de scroll infinito utilizando el paquete `infinite_scroll_pagina
 1. Asegúrate de tener Flutter instalado en tu equipo de manera global.
 2. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   git clone https://github.com/WilmerRamos21/Flutter-Poke-API.git
    ```
 3. Instala las dependencias del proyecto:
    ``` bash
